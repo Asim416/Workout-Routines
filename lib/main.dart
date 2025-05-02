@@ -35,7 +35,8 @@ class WorkoutScreen extends StatelessWidget {
   final List<WorkoutRoutine> routines = [
     WorkoutRoutine(
       name: 'Full Body Burn',
-      imageUrl: 'https://example.com/images/fullbodyburn.jpg',
+      imageUrl:
+          'https://tse1.mm.bing.net/th/id/OIP.0FZFCDxE6l8HJplXB1rOAQHaE8?rs=1&pid=ImgDetMain',
       duration: '30 mins',
       exercises: [
         'Jumping Jacks',
@@ -47,7 +48,8 @@ class WorkoutScreen extends StatelessWidget {
     ),
     WorkoutRoutine(
       name: 'Morning Yoga Flow',
-      imageUrl: 'https://example.com/images/yogaflow.jpg',
+      imageUrl:
+          'https://static.vecteezy.com/system/resources/previews/011/008/520/non_2x/man-doing-morning-yoga-exercises-photo.jpg',
       duration: '20 mins',
       exercises: [
         'Sun Salutation',
@@ -59,7 +61,8 @@ class WorkoutScreen extends StatelessWidget {
     ),
     WorkoutRoutine(
       name: 'HIIT Express',
-      imageUrl: 'https://example.com/images/hiit.jpg',
+      imageUrl:
+          'https://tse1.mm.bing.net/th/id/OIP.s6b-MLdOgP0QpN9R8qmbtAHaE8?w=1200&h=800&rs=1&pid=ImgDetMain',
       duration: '15 mins',
       exercises: [
         'High Knees',
@@ -71,7 +74,8 @@ class WorkoutScreen extends StatelessWidget {
     ),
     WorkoutRoutine(
       name: 'Core Crusher',
-      imageUrl: 'https://example.com/images/corecrusher.jpg',
+      imageUrl:
+          'https://tse1.mm.bing.net/th/id/OIP.RA9xofSr5FZLXAul80B3FAHaDF?rs=1&pid=ImgDetMain',
       duration: '25 mins',
       exercises: [
         'Crunches',
